@@ -8,8 +8,7 @@ public class AreaofCircle {
     AreaofCircle(double radius){
         this.radius=radius;
     }
-
-    
+        
     public double Area(){
         return 2*PI*radius*radius;
     }
