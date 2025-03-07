@@ -1,4 +1,5 @@
   // Superclass: Animal
+//   inheritance
 class Animal {
     protected String name;
     protected int age;
