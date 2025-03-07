@@ -1,3 +1,4 @@
+//inheritance
 // Base class: Employee
 class Employee {
     protected String name;
